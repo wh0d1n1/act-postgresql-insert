@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cermak-petr/act-mysql-insert"
+    "url": "https://github.com/cermak-petr/act-postgres-insert"
   },
   "dependencies": { 
     "pg": "^7.4.0",
